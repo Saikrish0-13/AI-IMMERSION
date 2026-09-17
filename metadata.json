@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based Smart Classroom Attendance System",
+  "description": "A beginner-friendly modern web application for smart college attendance with simulated AI facial recognition scanning, manual attendance management, historical records, and student analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
